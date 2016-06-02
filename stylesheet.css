@@ -1,0 +1,65 @@
+img {
+	display: block;
+	margin: auto;
+	border-radius:5px;
+	border:2px solid DarkOrange;
+}
+
+a{
+	text-decoration: none;
+	color: OrangeRed;
+	font-family: Serif;
+}
+
+ul{
+	text-align: left;
+	font-family: Serif;
+	font-size: 20px;
+	color: Coral;	
+}
+
+#worktitle{
+	text-align: center;
+	font-family: Serif;
+	font-size: 25px;
+	color:Orange;
+}
+
+#headlist{
+text-align: left;
+	font-family: Serif;
+	font-size: 20px;
+	color: Coral;
+}
+
+p {
+	text-align: center;
+	font-family: Serif;
+	font-size: 20px;
+	color: Coral;
+}
+
+.block{
+	display: inline-block;
+	border-radius:5px;
+	border:2px solid DarkOrange;
+	background-color:black;
+	height:1000px;
+	width:600px;
+	margin:20px 40px 50px 20px;
+	text-align: center;
+}
+
+#blackhole{
+	text-align: center;
+	font-family: Serif;
+	font-size: 20px;
+	color: black;
+}
+
+#title{
+	text-align: center;
+	font-family: Copperplate Gothic Light, Serif;
+	color: DarkOrange;
+	font-size: 40px;
+}
